@@ -4,7 +4,11 @@
 
 ---
 
+<<<<<<< HEAD
 ## 📅 Semana 1 (15-06-2026 a 20-06-2026)
+=======
+## 📅 Semana 1 (15-06-2026 - 20-06-2026)
+>>>>>>> e9de1f2e375928f78a65e66d4fd4154599ab3b5e
 
 ### ✅ Completado
 - [✅] NumPy basics
@@ -37,7 +41,7 @@ Reflexão sobre a semana
 
 ---
 
-## 📅 Semana 2 (2024-01-08 a 2024-01-14)
+## 📅 Semana 2 (22-06-2026 - 27-06-2026)
 
 ### ✅ Completado
 - [ ]
@@ -65,7 +69,7 @@ Reflexão sobre a semana
 
 ---
 
-## 📅 Semana 3 (2024-01-15 a 2024-01-21)
+## 📅 Semana 3 (29-06-2026 - 04-07-2026)
 
 *(Copie o template acima)*
 
