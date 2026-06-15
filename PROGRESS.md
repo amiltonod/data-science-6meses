@@ -4,12 +4,12 @@
 
 ---
 
-## 📅 Semana 1 (2024-01-01 a 2024-01-07)
+## 📅 Semana 1 (15-06-2026 a 20-06-2026)
 
 ### ✅ Completado
-- [ ] NumPy basics
-- [ ] Entregável 1
-- [ ] Commits
+- [✅] NumPy basics
+- [✅] Entregável 1
+- [✅] Commits
 
 ### 📚 Aprendizados
 1. Conceito 1
