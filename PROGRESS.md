@@ -1,40 +1,49 @@
 # 📊 PROGRESS.md - Rastreamento Semanal
 
-**Atualize este arquivo toda segunda-feira.**
+**Atualize este arquivo toda semana.**
 
 ---
 
-<<<<<<< HEAD
 ## 📅 Semana 1 (15-06-2026 a 20-06-2026)
 
 ### ✅ Completado
-- [✅] NumPy basics
-- [✅] Entregável 1
-- [✅] Commits
+- [x] 4 notebooks NumPy criados (aula 1 a 4)
+- [x] helper_functions.py com docstring profissional
+- [x] Exercícios práticos resolvidos em todas as aulas
+- [x] Nomes dos arquivos corrigidos (removido espaço)
+- [x] Markdown iniciado na aula 1
+- [x] PROGRESS.md criado e atualizado
 
 ### 📚 Aprendizados
-1. Conceito 1
-2. Conceito 2
+1. Arrays NumPy são mais rápidos que listas Python por serem homogêneos e contíguos na memória
+2. Boolean indexing substitui loops — `mascara = array > valor`
+3. `axis=1` opera nas linhas, `axis=0` opera nas colunas
+4. Scripts `.py` guardam funções reutilizáveis, notebooks `.ipynb` são para exploração
+5. Células markdown no Jupyter separam explicação de código — padrão profissional
 
 ### 🔴 Bloqueios
-- Problema e solução
+- Confundi `[:, 0]` achando que pegava a linha do motoboy, mas na verdade pega a coluna inteira
+- Solução: entendi que `array[LINHA, COLUNA]` — `[:, 0]` significa todas as linhas, coluna 0
 
 ### 📈 Próxima semana
-- [ ] Tarefa 1
-- [ ] Tarefa 2
+- [ ] Terminar markdown nas aulas 2, 3 e 4
+- [ ] Commitar tudo com mensagem descritiva
+- [ ] Iniciar Pandas — Series e DataFrames
 
 ### 🔗 Commits
 ```
-[SEMANA-1] feat: Descrição
+[SEMANA-1] feat: NumPy basics - 4 aulas + helper_functions
 ```
 
 ### ⏱️ Tempo gasto
-- Estudo: __h
-- Prática: __h
-- **Total: __h**
+- Estudo: 2h
+- Prática: 2h
+- **Total: 4h**
 
 ### 📌 Notas pessoais
-Reflexão sobre a semana
+Primeiro dia de estudo. Mais produtivo do que esperava.
+Errei o axis na primeira tentativa mas entendi o erro e corrigi.
+Contextualizei todos os exemplos em cenários de negócio reais.
 
 ---
 
@@ -54,7 +63,7 @@ Reflexão sobre a semana
 
 ### 🔗 Commits
 ```
-
+[SEMANA-2] feat:
 ```
 
 ### ⏱️ Tempo gasto
@@ -66,9 +75,9 @@ Reflexão sobre a semana
 
 ---
 
-## 📅 Semana 3 (29-06-2026 a 04-07-2026 )
+## 📅 Semana 3 (29-06-2026 a 04-07-2026)
 
-*(Copie o template acima)*
+*(Copie o template da semana anterior)*
 
 ---
 
@@ -156,10 +165,10 @@ Reflexão sobre a semana
 ### 💼 Pronto para trabalhar como Junior DS?
 - [ ] Confiante
 - [ ] Parcialmente
-- [✅] Ainda não
+- [ ] Ainda não
 
 ### 🚀 Próximos passos
-1.git
+1.
 2.
 3.
 
