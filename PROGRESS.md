@@ -6,9 +6,6 @@
 
 <<<<<<< HEAD
 ## 📅 Semana 1 (15-06-2026 a 20-06-2026)
-=======
-## 📅 Semana 1 (15-06-2026 - 20-06-2026)
->>>>>>> e9de1f2e375928f78a65e66d4fd4154599ab3b5e
 
 ### ✅ Completado
 - [✅] NumPy basics
@@ -41,7 +38,7 @@ Reflexão sobre a semana
 
 ---
 
-## 📅 Semana 2 (22-06-2026 - 27-06-2026)
+## 📅 Semana 2 (22-06-2026 a 27-06-2026)
 
 ### ✅ Completado
 - [ ]
@@ -69,7 +66,7 @@ Reflexão sobre a semana
 
 ---
 
-## 📅 Semana 3 (29-06-2026 - 04-07-2026)
+## 📅 Semana 3 (29-06-2026 a 04-07-2026 )
 
 *(Copie o template acima)*
 
@@ -159,10 +156,10 @@ Reflexão sobre a semana
 ### 💼 Pronto para trabalhar como Junior DS?
 - [ ] Confiante
 - [ ] Parcialmente
-- [ ] Ainda não
+- [✅] Ainda não
 
 ### 🚀 Próximos passos
-1.
+1.git
 2.
 3.
 
