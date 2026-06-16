@@ -11,7 +11,7 @@
 - [x] helper_functions.py com docstring profissional
 - [x] Exercícios práticos resolvidos em todas as aulas
 - [x] Nomes dos arquivos corrigidos (removido espaço)
-- [x] Markdown iniciado na aula 1
+- [x] Markdown iniciado na aula 1, 2...
 - [x] PROGRESS.md criado e atualizado
 
 ### 📚 Aprendizados
