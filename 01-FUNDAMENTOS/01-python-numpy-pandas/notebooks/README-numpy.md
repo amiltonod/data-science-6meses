@@ -278,12 +278,12 @@ git push
 
 Você domina NumPy quando consegue, **sem consultar**:
 
-- [ ] Criar array 1D e 2D com tipos diferentes
-- [ ] Fatiar linha, coluna e submatriz
-- [ ] Filtrar com máscara booleana simples e composta
-- [ ] Calcular soma, média, max, min com e sem axis
-- [ ] Usar argmax/argmin para localizar índice
-- [ ] Importar função de um script `.py` no notebook
+- [x] Criar array 1D e 2D com tipos diferentes
+- [x] Fatiar linha, coluna e submatriz
+- [x] Filtrar com máscara booleana simples e composta
+- [x] Calcular soma, média, max, min com e sem axis
+- [x] Usar argmax/argmin para localizar índice
+- [x] Importar função de um script `.py` no notebook
 
 ---
 
