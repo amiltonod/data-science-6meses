@@ -80,10 +80,10 @@ dot_product = np.dot(vec1, vec2)
 - Com docstrings
 
 ### 🏁 Checkpoint
-- [ ] Escrever array 3D, acessar elemento específico
+- [x] Escrever array 3D, acessar elemento específico
 - [ ] Fazer broadcast sem erros
 - [ ] Multiplicar matrizes 2x3 * 3x4
-- [ ] Commit no GitHub com mensagem: `[SEMANA-1] feat: NumPy fundamentos`
+- [x] Commit no GitHub com mensagem: `[SEMANA-1] feat: NumPy fundamentos`
 
 ---
 

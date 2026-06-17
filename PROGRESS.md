@@ -11,7 +11,7 @@
 - [x] helper_functions.py com docstring profissional
 - [x] Exercícios práticos resolvidos em todas as aulas
 - [x] Nomes dos arquivos corrigidos (removido espaço)
-- [x] Markdown iniciado na aula 1, 2...
+- [x] Markdown realizado na aula 1, 2, 3 e 4
 - [x] PROGRESS.md criado e atualizado
 
 ### 📚 Aprendizados
@@ -26,8 +26,8 @@
 - Solução: entendi que `array[LINHA, COLUNA]` — `[:, 0]` significa todas as linhas, coluna 0
 
 ### 📈 Próxima semana
-- [ ] Terminar markdown nas aulas 2, 3 e 4
-- [ ] Commitar tudo com mensagem descritiva
+- [x] Terminar markdown nas aulas 2, 3 e 4
+- [x] Commitar tudo com mensagem descritiva
 - [ ] Iniciar Pandas — Series e DataFrames
 
 ### 🔗 Commits
