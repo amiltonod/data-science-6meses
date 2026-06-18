@@ -139,7 +139,7 @@ np.argmin(precos)      # Índice do menor → 0
 
 ---
 
-## 6. Axis — O conceito que separa Junior de Pleno
+## 6. Axis — O conceito que mais confunde iniciantes
 
 **Macete visual:**
 
