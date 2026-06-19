@@ -1,4 +1,3 @@
-cat > /home/claude/PROGRESS.md << 'EOF'
 # 📊 PROGRESS.md - Rastreamento Semanal
 
 **Atualize este arquivo toda semana.**
@@ -208,4 +207,3 @@ Documentar o erro dentro da própria aula virou padrão — boa evolução.
 ---
 
 **Mantenha este documento atualizado. Ele é seu portfólio de disciplina.**
-EOF
